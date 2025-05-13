@@ -2,4 +2,8 @@ pandas
 numpy
 seaborn
 dill
+xgboost
+scikit-learn
+matplotlib
+catboost
 #-e .
